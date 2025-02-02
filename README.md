@@ -1,4 +1,4 @@
-# Text_Sentence_Similarity_Topsis_for_Best_PreTrainedModel
+# Text_Sentence_Similarity_Topsis_Best_PreTrainedModel
 
 By Aarush Pruthi, 102203793
 
